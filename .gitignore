@@ -1,2 +1,4 @@
 exampleSite/public
 node_modules
+_vendor
+.hugo_build.lock
